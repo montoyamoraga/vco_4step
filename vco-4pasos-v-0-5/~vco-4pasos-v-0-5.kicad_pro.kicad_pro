@@ -503,7 +503,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "vco-4pasos-v-0-4.kicad_pro",
+    "filename": "~vco-4pasos-v-0-5.kicad_pro.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -539,7 +539,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "vco-4pasos-v-0-5-gerbers/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -658,8 +658,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "vco-4pasos-v-0-4.kicad_sch",
-        "name": "vco-4pasos-v-0-4",
+        "filename": "~vco-4pasos-v-0-5.kicad_pro.kicad_sch",
+        "name": "~vco-4pasos-v-0-5.kicad_pro",
         "uuid": "e3b6b2bd-18d6-4b60-b41d-e2b400c48c4f"
       }
     ],
